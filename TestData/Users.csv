@@ -1,0 +1,3 @@
+login,password,name,correct
+dorota@test.com,12345,Dorota Test,1
+dorotaincorrectasdfasdfsadf@test.com,12345,Dorota Test,0
